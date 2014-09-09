@@ -1,4 +1,4 @@
 stackedits
 ==========
 
-repo for contents written with https://stackedit.io/
+repo for my notes written with https://stackedit.io/
